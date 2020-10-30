@@ -1,0 +1,31 @@
+{"data":[ {
+  "id" : 0,
+  "itemname" : "bread",
+  "itemavailability" : "instock"
+  },
+   {
+  "id" : 1,
+  "itemname" : "milk",
+  "itemavailability" : "instock"
+  },
+  {
+  "id" : 2,
+  "itemname" : "honey",
+  "itemavailability" : "outofstock"
+  },
+  {
+  "id" : 3,
+  "itemname" : "oranges",
+  "itemavailability" : "intransit"
+  },
+  {
+  "id" : 4,
+  "itemname" : "sweets",
+  "itemavailability" : "intransit"
+  },
+  {
+  "id" : 5,
+  "itemname" : "chips",
+  "itemavailability" : "outofstock"
+  }
+   ]}
